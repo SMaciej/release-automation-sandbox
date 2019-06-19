@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [release/4](https://github.com/SMaciej/release-automation-sandbox/compare/release/3...release/4) - 2019-06-19
+### Added
+- [STX-2](https://firmstep.atlassian.net/browse/STX-2) Add e.
+
 ## [release/3] - 2019-06-19
 No significant changes.
 
