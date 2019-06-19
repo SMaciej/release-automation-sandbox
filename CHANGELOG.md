@@ -13,3 +13,4 @@ No significant changes.
 ## [release/1](https://github.com/SMaciej/release-automation-sandbox/compare/release/1...release/2) - 2019-06-11
 ### Added
 - [STX-001](https://firmstep.atlassian.net/browse/STX-001) a.
+
