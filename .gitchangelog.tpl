@@ -45,7 +45,7 @@ ${entry}
 </%def>\
 \
 <%
-print(capture(render_template).replace('\n', '\\'))
+print(capture(render_template).replace('\n', '<br/>'))
 %>\
 \
 ${render_template()}
